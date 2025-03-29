@@ -80,7 +80,7 @@ Noto Sans CJK SC -> Iosevka Aile -> Twemoji
 </div>
 ```
 
-[你也可以在线测试。](/fontconfigtest.html)  
+[你也可以在线测试。](/fontconfigtest.html){target="\_self"}  
 如果你的字体配置一切正确，那么结果应如图所示：
 
 ![CJK Test](./images/cjktest.png)
