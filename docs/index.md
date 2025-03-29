@@ -5,17 +5,14 @@ layout: home
 hero:
   name: "晨曦的小窝"
   text: "记录，分享与自娱自乐"
-  tagline: My great project tagline
+  tagline: "用努力换取回报，这是我们的生活\n但是明知不可为而为之，这是梦想。"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-    - theme: alt
-      text: 字体调教
-      link: /fontconfig/howtoconfig
+      text: "Arch Linux 指南"
+      link: /archlinux/introduction
+    - theme: brand
+      text: "Linux 字体调教指南"
+      link: /fontconfig/start
 
 features:
   - title: Feature A

@@ -1,0 +1,34 @@
+@font-face {
+  font-family: "AlibabaPuHuiTi";
+  font-weight: normal;
+  src: url(./fonts/AlibabaPuHuiTi-Regular.woff2);
+}
+
+@font-face {
+  font-family: "AlibabaPuHuiTi";
+  font-weight: bold;
+  src: url(./fonts/AlibabaPuHuiTi-SemiBold.woff2);
+}
+
+@font-face {
+  font-family: "AlibabaPuHuiTi L3";
+  font-weight: normal;
+  src: url(./fonts/AlibabaPuHuiTi-RegularL3.woff2);
+}
+
+@font-face {
+  font-family: "Iosevka Curly";
+  font-weight: normal;
+  src: url(./fonts/IosevkaCurly.woff2);
+}
+
+@font-face {
+  font-family: "Iosevka Curly";
+  font-weight: bold;
+  src: url(./fonts/IosevkaCurly-Bold.woff2);
+}
+
+:root {
+  --vp-font-family-base: "AlibabaPuHuiTi", "AlibabaPuHuiTi L3", "sans-serif";
+  --vp-font-family-mono: "Iosevka Curly", "monospace";
+}
